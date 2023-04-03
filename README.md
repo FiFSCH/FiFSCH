@@ -3,7 +3,7 @@
 <h3 align="center">Technology enthusiast based in Warsaw</h3>
 <img align="right" alt="just coding" width="125" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-* 🌱 I’m currently learning **React, Node, AWS and more!**
+* 🌱 I’m currently learning **React, Node and more!**
 
 * 📫Reach out to me at **filipschulz1@gmail.com**
 
