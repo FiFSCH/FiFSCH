@@ -1,4 +1,4 @@
-![Background](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966 "Hi there!")
+![Background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw2yBzGytjtr97zRbzd-2B2o&ust=1733333201282000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDjz8CPjIoDFQAAAAAdAAAAABAJ "Hi there!")
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">Technology enthusiast based in Warsaw</h3>
 <p><img align="right" alt="AWS Badge" width="126" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/></p>
