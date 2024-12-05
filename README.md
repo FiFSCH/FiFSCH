@@ -1,10 +1,19 @@
-![Background](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPotential17%2FPotential17&psig=AOvVaw2yBzGytjtr97zRbzd-2B2o&ust=1733333201282000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDjz8CPjIoDFQAAAAAdAAAAABAJ "Hi there!")
+<p align="center">
+    <img src="./gif_02.gif" width="80%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">Technology enthusiast based in Warsaw</h3>
+
+<p align="center"
+    <a align="center" href="https://www.linkedin.com/in/filipschulz/"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/59097176-efa4-4846-a8fb-3b580f5906e6" height="20"/></a> 
+                                                                       <!-- Credits to https://github.com/paulinamoskwa for Twitter label and background gif! Great Readme and Profile! -->
+</p>
+    
 <p><img align="right" alt="AWS Badge" width="126" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/></p>
 <p><img align="right" alt="just coding" width="126" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/></p>
 
-* 🌱 I’m currently learning **React, Node and more!**
+* 🌱 I’m currently doing a Master's degree in **Machine Learning and Data Science!**
 
 * 📫Reach out to me at **filipschulz1@gmail.com**
 
