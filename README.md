@@ -6,8 +6,8 @@
 <h3 align="center">Technology enthusiast based in Warsaw</h3>
 
 <p align="center"
-    <a align="center" href="https://www.linkedin.com/in/filipschulz/"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/59097176-efa4-4846-a8fb-3b580f5906e6" height="20"/></a> 
-                                                                       <!-- Credits to https://github.com/paulinamoskwa for Twitter label and background gif! Great Readme and Profile! -->
+    <a align="center" href="https://www.linkedin.com/in/filipschulz/"><img src="https://github.com/paulinamoskwa/paulinamoskwa/assets/104844027/45aec319-9040-421a-880b-3352f7083a29" height="20"/></a> 
+                                                                       <!-- Credits to https://github.com/paulinamoskwa for LinkedIn label and background gif! Great Readme and Profile! -->
 </p>
     
 <p><img align="right" alt="AWS Badge" width="126" src="https://images.credly.com/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png"/></p>
